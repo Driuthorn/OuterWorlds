@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "VW5RXH/qwvYMSnDA4z8NdRfhDsoGPayH1Wh1qCGy63AVHK85kO0SMiWM8BtyU2mnax+NFX3RibG79aprzXrmrA==",
+  "dgSpecHash": "tyaA1bGbPA3P0jra9pxHJQXWCoXtAe6W+/OGqEazF5DyNPpKU0kgIYd9zl2EgCN8s2vhtJynr5S38iq8ERRpXA==",
   "success": true,
-  "projectFilePath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Query\\Query.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Query\\OuterWorlds.Infrastructure.Data.Query.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dougl\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.0\\fluentvalidation.aspnetcore.11.2.0.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.1.0\\fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

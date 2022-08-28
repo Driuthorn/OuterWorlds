@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "FjVa/UD0Zg4tzYGjHDkyf9XSsBvRHOuXeKhjDUz6kDAFp3YOqJlt81eM7YhmDBJ3atlZQbjZ6wJuNY3AJp1+/w==",
+  "dgSpecHash": "N9qwdSyML4WqKyRnyAoiEqOI8jbflSGDKF1B6UYTCHnC9gNcE9HzrSW3e0+Knx3vpbdWJF4i+yRHkL4MOrM9wQ==",
   "success": true,
-  "projectFilePath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Query.Tests\\Query.Tests.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Query.Tests\\OuterWorlds.Infrastructure.Data.Query.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dougl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Dougl\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

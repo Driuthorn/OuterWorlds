@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aRpSFmYWwdQYVBZTjQJBaRcBIqYOJSmwpfyhp9547ilQmq6nNcN9Lom3g4p9ut8ajF1TED0Tm5F+NPad0baP8A==",
+  "dgSpecHash": "b/89zClsfbpIev3CjAhhcAbPSL5X7E3S2hFWh8723NFGqj0QQIy+ad6IrjTAiEqxIOUK9VGmTwEBPfSNdwFCOQ==",
   "success": true,
-  "projectFilePath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Exceptions\\Exceptions.csproj",
+  "projectFilePath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Exceptions\\OuterWorlds.CrossCutting.Exceptions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

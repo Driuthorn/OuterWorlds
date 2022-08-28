@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Command\\Command.csproj",
-      "projectName": "Command",
-      "projectPath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Command\\Command.csproj",
+      "projectUniqueName": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Command\\OuterWorlds.Infrastructure.Data.Command.csproj",
+      "projectName": "OuterWorlds.Infrastructure.Data.Command",
+      "projectPath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Command\\OuterWorlds.Infrastructure.Data.Command.csproj",
       "packagesPath": "C:\\Users\\Dougl\\.nuget\\packages\\",
       "outputPath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Command\\obj\\",
       "projectStyle": "PackageReference",

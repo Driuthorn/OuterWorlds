@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Configuration\\Configuration.csproj",
-      "projectName": "Configuration",
-      "projectPath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Configuration\\Configuration.csproj",
+      "projectUniqueName": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Configuration\\OuterWorlds.CrossCutting.Configuration.csproj",
+      "projectName": "OuterWorlds.CrossCutting.Configuration",
+      "projectPath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Configuration\\OuterWorlds.CrossCutting.Configuration.csproj",
       "packagesPath": "C:\\Users\\Dougl\\.nuget\\packages\\",
       "outputPath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Configuration\\obj\\",
       "projectStyle": "PackageReference",

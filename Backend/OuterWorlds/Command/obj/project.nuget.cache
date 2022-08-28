@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lYvGajZnfYbE4ISweOkRC+HKLPq/rEWzig0mwZ3mdy3PRKi3HZjzVRF8yBmAleG4ijuEBpzFSkcQL7nWEYtfGg==",
+  "dgSpecHash": "SMFFbl0YnP4XW/hQnjx5zGIWSPwLYHvx0Rk8JuaEUMk6c9Juh5qabo3FciPwWScMuuTnHAeXVTQZ0liKnlbGZg==",
   "success": true,
-  "projectFilePath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Command\\Command.csproj",
+  "projectFilePath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Command\\OuterWorlds.Infrastructure.Data.Command.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

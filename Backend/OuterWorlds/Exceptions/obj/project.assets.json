@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Exceptions\\Exceptions.csproj",
-      "projectName": "Exceptions",
-      "projectPath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Exceptions\\Exceptions.csproj",
+      "projectUniqueName": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Exceptions\\OuterWorlds.CrossCutting.Exceptions.csproj",
+      "projectName": "OuterWorlds.CrossCutting.Exceptions",
+      "projectPath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Exceptions\\OuterWorlds.CrossCutting.Exceptions.csproj",
       "packagesPath": "C:\\Users\\Dougl\\.nuget\\packages\\",
       "outputPath": "D:\\projetos\\OuterWorlds\\Backend\\OuterWorlds\\Exceptions\\obj\\",
       "projectStyle": "PackageReference",
